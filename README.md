@@ -127,4 +127,4 @@ docs/                  course site (GitHub Pages)
 
 ## Credits
 
-See [ATTRIBUTION.md](ATTRIBUTION.md). No licence is included yet; add one before inviting reuse.
+See [ATTRIBUTION.md](ATTRIBUTION.md). Released under the [MIT licence](LICENSE).
