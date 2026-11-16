@@ -1,0 +1,6 @@
+[server]
+headless = true
+address = "localhost"     # deliberately vulnerable app: reachable from this machine only
+
+[browser]
+gatherUsageStats = false

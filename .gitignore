@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+.pytest_cache/
+shop_findings.jsonl
+shop_assessment.md
+.env
